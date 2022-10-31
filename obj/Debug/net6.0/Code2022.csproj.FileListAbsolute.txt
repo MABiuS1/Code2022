@@ -1,0 +1,15 @@
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.csproj.AssemblyReference.cache
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.AssemblyInfoInputs.cache
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.AssemblyInfo.cs
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.csproj.CoreCompileInputs.cache
+/Users/krdare/Code2022/bin/Debug/net6.0/Code2022
+/Users/krdare/Code2022/bin/Debug/net6.0/Code2022.deps.json
+/Users/krdare/Code2022/bin/Debug/net6.0/Code2022.runtimeconfig.json
+/Users/krdare/Code2022/bin/Debug/net6.0/Code2022.dll
+/Users/krdare/Code2022/bin/Debug/net6.0/Code2022.pdb
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.dll
+/Users/krdare/Code2022/obj/Debug/net6.0/refint/Code2022.dll
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.pdb
+/Users/krdare/Code2022/obj/Debug/net6.0/Code2022.genruntimeconfig.cache
+/Users/krdare/Code2022/obj/Debug/net6.0/ref/Code2022.dll
